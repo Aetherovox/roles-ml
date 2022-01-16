@@ -1,0 +1,7 @@
+{
+  "s3" : {
+    "bucket" : "ibi-job-scraper",
+    "access_key" : "AKIAUHEMKUEVL7AQMKWU",
+    "secret_key" : "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"
+  }
+}

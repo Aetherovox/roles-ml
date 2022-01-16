@@ -1,0 +1,19 @@
+{
+  "s3" : {
+    "bucket" : "ibi-job-scraper",
+    "access_key" : "AKIAUHEMKUEVL7AQMKWU",
+    "secret_key" : "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"
+  },
+    "files": {
+      "training_file": "./files/machine_learning/training_data.csv",
+      "full_training": "./files/machine_learning/full_training_data.csv",
+      "kw_job_list": "./files/machine_learning/job_list2.csv",
+      "outfile": "./outputs/classifier_output.csv",
+      "stage": "job_tracker.csv",
+      "reed": "reed_*"
+    },
+    "directories" : {
+      "raw" : "./files/raw/"
+  }
+
+}
